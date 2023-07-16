@@ -1,0 +1,9 @@
+07/16/23 - 5:26PM
+------------------------------------------------------------------------------------
+- finished the initial implementation of the code, added the api and library files
+=====================
+THINGS TO DO NEXT TIME 
+=====================
+- add the boolean to the CarModel for if the current car profile is being tracked 
+- began working on the initial script for fetching the car information 
+------------------------------------------------------------------------------------
